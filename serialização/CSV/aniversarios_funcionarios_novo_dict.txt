@@ -1,0 +1,4 @@
+nome;departamento;mês de aniversário
+Pedro Lima;RH;Novembro
+Gabriela Silva;TI;Março
+Marcelo Oliveira;;Agosto
